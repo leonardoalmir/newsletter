@@ -1,2 +1,2 @@
 # newsletter
-Neste projeto, desenvolveremos uma página usando Tailwinds.
+Neste projeto, desenvolveremos uma página usando Tailwinds CSS.
